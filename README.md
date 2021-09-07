@@ -1,2 +1,2 @@
 # shopping-cart
-This project was created using vanilla JS.
+This project was created using HTML, CSS and vanilla JS.
